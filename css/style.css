@@ -1,0 +1,9 @@
+.header {padding-top: 2%;padding-bottom: 1.5%;}
+.headerwrap{background:url('../img/bg.jpg');background-position: center center;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+.howworks {background: #f17534;}
+.information {background: url('../img/infobg.jpg') no-repeat rgb(165, 208, 225);}
+ul.profile_data li {list-style: none;}
+ul.profile_data {padding: 10px 0;}
+.howworks h3 {color: #fff;font-size: 20px;}
+.howworks p {color: #ddd;    font-size: 16px;}
+.howworks img {width: 100%;max-width: 145px;padding: 0 0 20px 0;height: auto;}
